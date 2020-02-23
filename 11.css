@@ -1,0 +1,10 @@
+table {
+    width: 250px;
+    height: 250px;
+}
+td {
+    background-color: red;
+}
+tr td:nth-child(2) {
+    background-color: yellow;
+}
